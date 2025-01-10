@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/Fire-fly630/personalWebsite",
+  "homepage": "https://Fire-fly630.github.io/personalWebsite",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
