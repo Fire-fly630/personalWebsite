@@ -1,0 +1,21 @@
+.projects-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* Adjust the gap between items as needed */
+    max-height: 400px; /* Set a fixed height for scrolling */
+    overflow-y: auto; /* Enable vertical scrolling */
+    width: 200%; /* Adjust this value to make the section wider */
+    margin: 0 auto; /* Center the container */
+}
+.projects-list p {
+    flex: 1 1 calc(40% - 10px); /* Adjust the width of each column to be wider */
+    box-sizing: border-box;
+    padding: 10px; /* Add some padding for better spacing */
+}
+.projects-list p img{
+    // max-width: 100%; /* Ensure the image doesn't overflow the column */
+    height: 170px; /* Maintain the aspect ratio */
+    width: 150px;
+    display: block; /* Make sure the image is displayed as a block element */
+    margin-bottom: 10px; /* Add some padding for better spacing */
+}
