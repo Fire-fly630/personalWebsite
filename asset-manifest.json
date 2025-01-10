@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Fire-fly630/personalWebsite/static/css/main.2faccf35.css",
+    "main.js": "/Fire-fly630/personalWebsite/static/js/main.333fc70a.js",
+    "static/js/453.1407b060.chunk.js": "/Fire-fly630/personalWebsite/static/js/453.1407b060.chunk.js",
+    "static/media/project2.jpg": "/Fire-fly630/personalWebsite/static/media/project2.4d34e407b75974d9387f.jpg",
+    "static/media/Resume.png": "/Fire-fly630/personalWebsite/static/media/Resume.ad9f9c46ae80cc90d103.png",
+    "static/media/project4.jpg": "/Fire-fly630/personalWebsite/static/media/project4.707c220855f4127f2de1.jpg",
+    "static/media/project1.jpg": "/Fire-fly630/personalWebsite/static/media/project1.9abe46957d7d51924a97.jpg",
+    "static/media/helvetica-neu.ttf": "/Fire-fly630/personalWebsite/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/Fire-fly630/personalWebsite/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/Fire-fly630/personalWebsite/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/Fire-fly630/personalWebsite/index.html",
+    "main.2faccf35.css.map": "/Fire-fly630/personalWebsite/static/css/main.2faccf35.css.map",
+    "main.333fc70a.js.map": "/Fire-fly630/personalWebsite/static/js/main.333fc70a.js.map",
+    "453.1407b060.chunk.js.map": "/Fire-fly630/personalWebsite/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2faccf35.css",
+    "static/js/main.333fc70a.js"
+  ]
+}
